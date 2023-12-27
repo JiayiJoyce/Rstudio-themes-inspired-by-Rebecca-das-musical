@@ -7,6 +7,9 @@ of **Rebecca das Musical**
 
 Code based on `Monokai` in [tmTheme editor](https://tmtheme-editor.glitch.me/#!/editor/theme/Monokai)
 
+## How to install
+[Offical instruction on improting custom theme](https://posit.co/blog/rstudio-ide-custom-theme-support/)
+
 ## Preview
 ### Wilde Freie See (Wild and raging sea)
 
